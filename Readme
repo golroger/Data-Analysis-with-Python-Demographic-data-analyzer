@@ -1,0 +1,15 @@
+# Data-Analysis-with-Python-Demographic-data-analyzer# # README
+
+# This project uses a dataset from the **Adult Census Income** dataset. It  uses `calculate_demographic_data()` function to calculate the following data: 
+
+# - Number of each race 
+# - Average age of men
+# - Percentage of people with a Bachelor's degree
+# - Percentage of people with higher education that earn >50K
+# - Percentage of people without higher education that earn >50K
+# - Minimum number of hours worked per week
+# - Percentage of people who work the minimum number of hours and have a salary >50K
+# - Country with highest percentage of people who earn >50K
+# - Most popular occupation for people who earn >50K in India
+
+# The `calculate_demographic_data()` function takes one parameter, `print_data`, which is set to `True` by default. When `print_data` is set to `True`, the data will be printed out in the terminal.
